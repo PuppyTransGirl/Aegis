@@ -1,0 +1,8 @@
+name: "Aegis"
+version: "1.0.0"
+main: toutouchien.aegis.AegisPaper
+description: "Anti Server Scanner plugin"
+api-version: '1.20'
+load: STARTUP
+authors: [ Toutouchien ]
+folia-supported: true
